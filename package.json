@@ -1,0 +1,49 @@
+{
+  "name": "react-twig",
+  "version": "0.1.0",
+  "description": "React component for Twig.",
+  "main": "lib/index.js",
+  "jsnext:main": "es2/index.js",
+  "files": [
+    "es",
+    "lib"
+  ],
+  "dependencies": {
+    "twig": "^1.10.5"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.5.0"
+  },
+  "devDependencies": {
+    "nwb": "0.16.x",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.4"
+  },
+  "scripts": {
+    "build": "nwb build",
+    "clean": "nwb clean",
+    "test": "nwb test"
+  },
+  "authors": [
+    {
+      "name": "Lauri Eskola",
+      "email": "lauri.eskola@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/lauriii/react-twig/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lauriii/react-twig.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "template",
+    "twig"
+  ]
+}

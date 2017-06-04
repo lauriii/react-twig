@@ -1,0 +1,5 @@
+/lib
+/es
+/node_modules
+yarn.lock
+/.idea
