@@ -1,6 +1,6 @@
 {
   "name": "react-twig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React component for Twig.",
   "main": "lib/index.js",
   "jsnext:main": "es2/index.js",
