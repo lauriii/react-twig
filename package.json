@@ -1,6 +1,6 @@
 {
   "name": "react-twig",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "React component for Twig.",
   "main": "lib/index.js",
   "jsnext:main": "es2/index.js",
@@ -12,14 +12,14 @@
     "twig": "^1.10.5"
   },
   "peerDependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.5.0"
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0"
   },
   "devDependencies": {
-    "nwb": "0.16.x",
-    "prop-types": "^15.5.10",
-    "react": "^15.5.0",
-    "react-dom": "^15.5.4"
+    "nwb": "0.19.x",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
   },
   "scripts": {
     "build": "nwb build",
